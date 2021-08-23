@@ -5,13 +5,21 @@ source blockchain-env/Scripts/activate
 
 ```
 
+ # sources :
+ 
+ - https://www.udemy.com/course/python-js-react-blockchain/
+ 
 **virtual environment editor interpreter**
+
+
 
 Make sure the vs code editor is using is not the same interpreter that you're running when you run the server .
 
 on the bottom left corner you should be able to see Python 3.x.x, click it, and make sure it is pointing to your system python
 
- # https://stackoverflow.com/questions/65694813/import-flask-could-not-be-resolved-from-source-pylance
+ - https://stackoverflow.com/questions/65694813/import-flask-could-not-be-resolved-from-source-pylance
+ 
+
 
 
 **Install All Packages**
